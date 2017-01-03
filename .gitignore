@@ -1,0 +1,5 @@
+app/node_modules
+app/android
+app/ios
+app/jest
+app/coverage
