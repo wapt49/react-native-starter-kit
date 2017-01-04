@@ -15,9 +15,12 @@
     "verbose": true
   },
   "dependencies": {
+    "events": "^1.1.1",
+    "flux": "^3.1.2",
     "html-entities": "^1.2.0",
     "invariant": "^2.2.2",
     "jwt-decode": "^2.1.0",
+    "keymirror": "^0.1.1",
     "qs": "^6.3.0",
     "react": "15.4.1",
     "react-addons-shallow-compare": "^15.4.0",
